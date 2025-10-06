@@ -1,0 +1,78 @@
+---
+title: "Tarea #1 
+Cuestionario sobre Inteligencia Artificial en la Plataforma de Azure"
+author: "Mauricio Ortiz Coronado"
+date: "2025-10-06"
+
+
+
+
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float:
+      collapsed: true
+      smooth_scroll: true
+    theme: bootstrap
+    css: style.css
+    self_contained: true
+    number_sections: true
+    highlight: tango
+
+
+
+---
+
+
+## Introducción
+
+Este cuestionario tiene como propósito recopilar información sobre el uso, percepción e intención de adopción de la Inteligencia Artificial en la plataforma de Azure. El estudio busca entender cómo los profesionales interactúan con estas tecnologías y qué factores influyen en su implementación.
+
+### Importancia del estudio
+
+La IA en Azure representa una herramienta clave para la transformación digital. Comprender su adopción permite mejorar estrategias de capacitación y desarrollo.
+
+### Instrucciones generales
+
+Evaluar el nivel de conocimiento, percepción e intención de uso de herramientas de Inteligencia Artificial en la plataforma de Azure entre profesionales del sector tecnológico.
+
+
+## Población Meta
+
+### Características demográficas
+
+Profesionales del sector tecnológico con experiencia en plataformas en la nube.
+
+### Criterios de inclusión
+
+- Uso actual o previo de Azure.
+- Interés en tecnologías de IA.
+
+### Criterios de exclusión
+
+- Personas sin experiencia en plataformas en la nube.
+
+### Tamaño estimado de la población
+
+150 participantes.
+
+## Objetivo General
+
+
+Evaluar el nivel de conocimiento, percepción e intención de uso de herramientas de Inteligencia Artificial en la plataforma de Azure entre profesionales del sector tecnológico.
+
+
+## Cuestionario
+
+El cuestionario fue creado en Microsoft Forms e incluye los siguientes tipos de preguntas:
+
+### Enlace al cuestionario
+
+[Click aquí para iniciar el cuestionario](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=v4j5cvGGr0GRqy180BHbR-vjpcscIRpDjVMkT_rqJJpUNFNQSlRHQ1g0RTFTUlYzQjlGUDRJREM0Si4u&Token=db67d25ca67c4a62b663eca07e7a4716)- 
+
+Responda todas las preguntas con sinceridad.
+- No hay respuestas correctas o incorrectas.
+- La información será tratada de forma confidencial y utilizada exclusivamente con fines académicos.
+
+
